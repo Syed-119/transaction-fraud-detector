@@ -5,23 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f176e7fa-fa21-4229-bd6c-82362614f1a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ml-service/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fraud/FraudDetectorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/FraudDetectorApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/dto/TransactionRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/dto/TransactionRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/dto/TransactionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/dto/TransactionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/service/TransactionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/fraud-api/src/main/java/com/fraud/service/TransactionService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3EXvMmI5kCoCjcAtmIroqB3dI1b" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -29,10 +38,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Maven.fraud-api [clean].executor": "Run",
+    "Maven.fraud-api [install].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "git-widget-placeholder": "ml-service",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "chore/refactor-and-adding-tests",
     "last_opened_file_path": "/Users/hassaanabbas/Desktop/Hassaan/Java projects/transaction-fraud-detector",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -40,7 +52,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/hassaanabbas/Desktop/Hassaan/Java projects/transaction-fraud-detector/src/main/java/org/selenium-lab/Main.java",
-    "settings.editor.selected.configurable": "build.tools",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -86,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1780337683110</updated>
       <workItem from="1780337684344" duration="1690000" />
+      <workItem from="1780339384749" duration="10899000" />
     </task>
     <servers />
   </component>
